@@ -1,0 +1,78 @@
+.bodycolor{
+    background-color: #ccc;
+}
+.NavBar{
+    background-color: navy;
+    color: white;   
+    padding: 10px 50px 1px 50px;
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+}
+
+.removeMargin{
+    margin: 0px;
+}
+.rightAllign{
+    float: right !important;
+    display: inline;
+    /* text-align: right; */
+}
+.button{
+    margin: 10px;
+    cursor: pointer;
+}
+.margin{
+    /* margin: 1px; */
+    /* padding: 0px 100px; */
+    width: 70%;
+    margin: auto;
+}
+.centerAllign{
+    
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.padd{
+    padding: 1px 30px 1px 200px;
+    
+}
+.bodybutton{
+    /* margin: 20px 200px; */
+    background-color: navy;
+    color: white;
+    height: 20px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px; 
+}
+.box{
+    /* border: 2px solid black; */
+    box-shadow: 1px 1px 5px 0.5px #354052;;
+    width: 70%;
+    height: 300px;
+    margin: 20px auto 0px;
+    padding: 10px;
+    background-color: gainsboro;
+}
+.footer{
+    bottom: 0 ;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    background-color: #c0c0c0;
+    height: 25px;
+}
+.text{
+    text-size-adjust: 50px;
+}
+.font{
+    font-size: 32px;
+    font-weight: bold;
+}
+.reaction{
+    border-radius: 10px;
+    background-color: aquamarine;
+}
